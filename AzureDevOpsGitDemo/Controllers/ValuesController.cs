@@ -12,7 +12,7 @@ namespace AzureDevOpsGitDemo.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            /*Test*/
+            /*Test 1*/
             return new string[] { "value1", "value2" };
         }
 
